@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="omtengine"/>
+	<classpathentry kind="lib" path="external lib/sun-jai_codec.jar"/>
+	<classpathentry kind="lib" path="external lib/sun-jai_core.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="jcommon"/>
+	<classpathentry kind="lib" path="external lib/jython.jar"/>
+	<classpathentry kind="var" path="jfreechart"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
